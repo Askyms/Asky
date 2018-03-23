@@ -1,3 +1,7 @@
 *.js linguist-language=C#
 *.css linguist-language=C#
 *.htm linguist-language=C#
+*.pdf linguist-language=C#
+*.zip linguist-language=C#
+*.png linguist-language=C#
+*.jpg linguist-language=C#
