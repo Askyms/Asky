@@ -36,6 +36,8 @@ https://github.com/AskyEdu/Asky/tree/master/01_doc
 
 来源：https://github.com/AskyEdu  
 
+Nuget：https://www.nuget.org/packages?q=Asky
+
 .NET新时代开源社区QQ群：618093978
 
 C#区块链编程学院QQ群：546200985
