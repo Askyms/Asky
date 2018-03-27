@@ -23,14 +23,13 @@ vue是非常流行的轻量级开源javascript前端框架，前后端分离开�
 
 ##  教程目录
 
-请按顺序完成以下每个小节教程
+请按顺序学习以下每个小节教程
 
-[课程下载：第00节到第02节教程打包下载.zip](https://github.com/AskyEdu/Asky/raw/master/01_doc/Asky%E9%9B%B6%E5%9F%BA%E7%A1%801%E5%B0%8F%E6%97%B6%E5%AD%A6%E7%BC%96%E7%A8%8B_%E7%AC%AC00%E5%88%B002%E8%8A%82%E6%89%93%E5%8C%85%E4%B8%8B%E8%BD%BD.zip) 
+[教程下载：第00节到第02节教程打包下载.zip](https://github.com/AskyEdu/Asky/raw/master/01_doc/Asky%E9%9B%B6%E5%9F%BA%E7%A1%801%E5%B0%8F%E6%97%B6%E5%AD%A6%E7%BC%96%E7%A8%8B_%E7%AC%AC00%E5%88%B002%E8%8A%82%E6%89%93%E5%8C%85%E4%B8%8B%E8%BD%BD.zip) 
 
-* 00 先安装开发工具、开源数据库
+* 00 安装开发工具、开源数据库
 * 01 极速入门dnc+vue前后端分离
-* 02 用户注册登录_在线状态机制
-
+* 02 用户注册_登录模块_在线状态
 
 ##  如何开发高性能、无限水平扩展、支撑亿万级用户、百亿级订单的系统
 
