@@ -4,13 +4,13 @@
 ### 《Asky极简教程：零基础1小时学编程》开源教程
 
 * 零基础入门，从零开始全程演示，如何开发一个大型互联网系统，开源教程 + 开源代码 + 开源解决方案
-* 零基础1小时学完前3节后，可学会基本编程思路，后面的教程是在这基础上的逐步深入进阶
+* 零基础1小时学完前3节后，可学会基本编程思路，后面的教程是在这基础上的逐步深入
 * 每节教程学习时间30分钟左右，由浅入深，循序渐进，从 完全不懂编程 到 逐渐掌握编程技能 到 开发大型互联网系统
 
 ### dnc简介
 
 * dnc = .NET Core、dotnet Core 简写
-* dnc是微软新一代主力编程平台，开源、免费、跨平台、轻量级、高性能，可部署到Linux、Docker、k8s等环境，适合开发微服务、云原生、大型互联网应用、全开源解决方案
+* dnc是微软新一代主力编程平台，开源、免费、跨平台、轻量级、高性能，支持Linux、Docker、k8s等环境，适合开发微服务、云原生、大型互联网应用、全开源解决方案
 
 ### dnc国内公司案例
 
@@ -18,11 +18,12 @@
 
 ### dnc招聘职位列表
 
-* 2018年4月更新70多个公司dnc招聘职位：http://cnblogs.com/dncNew/p/dncjob.html
+* 2018年4月更新70多个公司招聘信息：http://cnblogs.com/dncNew/p/dncjob.html
 
 ### Asky教程目录
 
-* 教程打包下载（已更新前8节）：https://github.com/AskyEdu/Asky/raw/master/01_doc/Asky.zip
+* [教程打包下载（已更新前8节）](https://github.com/AskyEdu/Asky/raw/master/01_doc/Asky.zip)
+* https://github.com/AskyEdu/Asky/raw/master/01_doc/Asky.zip
 
 * 01、安装开发工具、开源数据库
 * 02、零基础30分钟入门demo示例dnc + vue
