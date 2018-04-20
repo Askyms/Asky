@@ -9,7 +9,7 @@
 
 ### dnc简介
 
-* dnc = .NET Core、dotnet Core 简写
+* dnc = .NET Core、dotnet Core 简称
 * dnc是微软新一代主力编程平台，开源、免费、跨平台、轻量级、高性能，支持Linux、Docker、k8s等环境，适合开发微服务、云原生、大型互联网应用、全开源解决方案
 
 ### dnc国内公司案例
