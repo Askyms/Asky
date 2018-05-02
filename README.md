@@ -97,6 +97,14 @@
 * 地点：在线峰会、远程参与
 * 官网：[dncNew.com](http://dncNew.com)
 
+### dnc国内公司案例大全，欢迎补充
 
+* https://github.com/dncNew/dncNew/issues/4
 
+### dnc招聘信息70多个公司，欢迎补充
 
+* https://github.com/dncNew/dncNew/issues/2
+
+### dnc开源梦之队2018 开源项目精选集
+
+* https://github.com/dncNew/dncNew/blob/master/dnc.md
