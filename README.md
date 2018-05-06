@@ -92,8 +92,8 @@
 
 * Asky开源教程+开源代码 基于MIT开源协议，欢迎转载，但必须保留来源链接，否则追究法律责任
 * 来源 http://AskyEdu.com 首届dnc开源峰会 http://dncNew.com 
-* dnc开源峰会现场直播QQ群 618093978 
-* Asky极简架构QQ群 546200985
+* dnc开源峰会直播QQ群 779699538 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 ### 首届.NET Core开源峰会2018
 
