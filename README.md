@@ -20,6 +20,10 @@
 
 * 2018年4月更新70多个公司招聘信息：http://cnblogs.com/dncNew/p/dncjob.html
 
+<div align="left">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
+</div>
+
 ### Asky教程目录
 
 * [教程打包下载（已更新前8节）](https://github.com/AskyEdu/Asky/raw/master/01_doc/Asky.zip)
